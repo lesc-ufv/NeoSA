@@ -1,0 +1,18 @@
+strict digraph  {
+0 [label=mult0];
+1 [label=sum0];
+5 [label=sum2];
+2 [label=mult1];
+3 [label=sum1];
+7 [label=sum3];
+4 [label=mult2];
+6 [label=mult3];
+0 -> 1;
+0 -> 2;
+1 -> 5;
+2 -> 3;
+3 -> 7;
+4 -> 5;
+4 -> 6;
+6 -> 7;
+}

@@ -1,0 +1,77 @@
+Architecture MESH
+Grid: 
+255	255	255	255	34	47	255	255
+255	1	0	12	45	46	49	48
+2	3	4	6	7	9	10	8
+13	14	5	23	18	20	11	255
+16	15	255	17	19	21	22	255
+38	27	255	37	39	31	41	42
+26	255	255	28	29	32	255	43
+24	25	36	35	40	30	33	44
+Edge 0 -> 0 has cost 0
+Edge 0 -> 0 has cost 0
+Edge 1 -> 1 has cost 0
+Edge 2 -> 2 has cost 0
+Edge 2 -> 2 has cost 0
+Edge 3 -> 3 has cost 0
+Edge 4 -> 4 has cost 0
+Edge 4 -> 4 has cost 0
+Edge 5 -> 5 has cost 2
+Edge 6 -> 6 has cost 0
+Edge 6 -> 6 has cost 0
+Edge 7 -> 7 has cost 0
+Edge 8 -> 8 has cost 0
+Edge 8 -> 8 has cost 0
+Edge 9 -> 9 has cost 0
+Edge 10 -> 10 has cost 0
+Edge 11 -> 11 has cost 0
+Edge 12 -> 12 has cost 0
+Edge 12 -> 12 has cost 0
+Edge 13 -> 13 has cost 0
+Edge 13 -> 13 has cost 0
+Edge 14 -> 14 has cost 0
+Edge 15 -> 15 has cost 0
+Edge 15 -> 15 has cost 0
+Edge 16 -> 16 has cost 0
+Edge 17 -> 17 has cost 0
+Edge 17 -> 17 has cost 0
+Edge 18 -> 18 has cost 0
+Edge 19 -> 19 has cost 1
+Edge 19 -> 19 has cost 0
+Edge 20 -> 20 has cost 0
+Edge 21 -> 21 has cost 1
+Edge 22 -> 22 has cost 0
+Edge 23 -> 23 has cost 0
+Edge 24 -> 24 has cost 0
+Edge 24 -> 24 has cost 0
+Edge 25 -> 25 has cost 0
+Edge 26 -> 26 has cost 2
+Edge 26 -> 26 has cost 0
+Edge 27 -> 27 has cost 0
+Edge 28 -> 28 has cost 1
+Edge 28 -> 28 has cost 0
+Edge 29 -> 29 has cost 2
+Edge 30 -> 30 has cost 0
+Edge 30 -> 30 has cost 0
+Edge 31 -> 31 has cost 0
+Edge 32 -> 32 has cost 1
+Edge 33 -> 33 has cost 0
+Edge 34 -> 34 has cost 0
+Edge 34 -> 34 has cost 0
+Edge 35 -> 35 has cost 0
+Edge 35 -> 35 has cost 0
+Edge 37 -> 37 has cost 2
+Edge 37 -> 37 has cost 0
+Edge 39 -> 39 has cost 0
+Edge 39 -> 39 has cost 0
+Edge 41 -> 41 has cost 0
+Edge 41 -> 41 has cost 0
+Edge 43 -> 43 has cost 0
+Edge 45 -> 45 has cost 0
+Edge 46 -> 46 has cost 0
+Edge 46 -> 46 has cost 0
+Edge 47 -> 47 has cost 1
+Edge 48 -> 48 has cost 0
+Edge 49 -> 49 has cost 0
+
+Longest FIFO needed: 2

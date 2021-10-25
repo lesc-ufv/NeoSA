@@ -1,0 +1,25 @@
+digraph convolution22 {
+    0[label=mult0];
+    1[label=mult1];
+    2[label=mult2];
+    3[label=mult3];
+    9[label=ff0];
+    4[label=ff1];
+    5[label=ff2];
+    6[label=ff3];
+    7[label=ff4];
+    8[label=add0];
+    9[label=add1];
+    10[label=add2];
+
+    0->4;
+    1->5;
+    2->6;
+    3->7;
+    4->8;
+    5->8;
+    6->9;
+    7->9;
+    8->10;
+    9->10;
+}

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Graph.h
+boost/graph/graphviz.hpp
+-
+boost/graph/adjacency_list.hpp
+-
+boost/graph/graph_traits.hpp
+-
+boost/graph/adjacency_iterator.hpp
+-
+boost/graph/betweenness_centrality.hpp
+-
+string
+-
+sstream
+-
+iostream
+-
+vector
+-
+map
+-
+stdio.h
+-
+
+/home/west/Pesquisa/NewSA/src/Graph.cpp
+Graph.h
+-
+

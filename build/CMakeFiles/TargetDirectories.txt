@@ -1,0 +1,4 @@
+/home/west/Pesquisa/NewSA/build/CMakeFiles/rebuild_cache.dir
+/home/west/Pesquisa/NewSA/build/CMakeFiles/edit_cache.dir
+/home/west/Pesquisa/NewSA/build/CMakeFiles/main.dir
+/home/west/Pesquisa/NewSA/build/CMakeFiles/Graph.dir
